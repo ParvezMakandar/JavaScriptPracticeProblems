@@ -22,7 +22,8 @@ while (start <= end && found != 1) {
             break;
     }
 }
-if (found == 1) {
+if (found == 1) 
+{
     console.log("-------------------");
     console.log("Your number is " + foundNumber);
     console.log("-------------------");

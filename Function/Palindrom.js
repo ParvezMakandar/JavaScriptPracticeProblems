@@ -11,7 +11,6 @@ function PalindromeChecker(number) {
         return false;
     }
 }
-
 if (PalindromeChecker(firtsNumber) && PalindromeChecker(secondNumber)) {
     console.log("The Given Two Numbers are palindrome");
 }

@@ -42,9 +42,9 @@ else if (secondResult > thirdResult && secondResult > fourthResult && secondResu
 else if (thirdResult > firstResult && thirdResult > secondResult && thirdResult > fourthResult) {
     mmaximumResultax = thirdResult;
 }
-else {
+else 
+{
     maximumResult = fourthResult;
 }
-
 console.log("Maximum = " + maximumResult);
 console.log("minimum = " + minimumResult);

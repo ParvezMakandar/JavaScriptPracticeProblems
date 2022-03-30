@@ -41,5 +41,4 @@ switch (number) {
 
     default:
         console.log("Invalid Number");
-
 }

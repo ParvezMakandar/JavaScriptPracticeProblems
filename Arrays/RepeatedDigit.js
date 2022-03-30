@@ -14,5 +14,4 @@ for (let index = 0; index <= 100; index++) {
     if (index > 10 && checkPalindrome(index))
         repeatedDigitArray.push(index);
 }
-
 console.log("The Number Array is : " + repeatedDigitArray);

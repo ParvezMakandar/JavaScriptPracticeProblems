@@ -14,7 +14,6 @@ for (let index = lowerRange; index <= higherRange; index++) {
             break;
         }
     }
-
     if (index > 1 && flag == 0) {
         console.log(index);
     }

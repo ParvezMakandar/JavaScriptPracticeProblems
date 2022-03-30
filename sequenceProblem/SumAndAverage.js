@@ -4,7 +4,8 @@ for (index = 1; index <= 5; index++) {
     console.log("Number" + index + " = " + number);
     sum += number;
 }
-function generateRandomNumber() {
+function generateRandomNumber() 
+{
     return Math.round(Math.random() * 89 + 10);
 }
 console.log("Sum = " + sum);

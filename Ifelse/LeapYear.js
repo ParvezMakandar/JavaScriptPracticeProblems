@@ -8,5 +8,4 @@ if ((yearToCheck % 4 == 0 && yearToCheck % 100 == 0) || yearToCheck % 4 == 0) {
 } else {
     isLeapYear = false;
 }
-
 console.log(yearToCheck + " is a leap year ? " + isLeapYear);

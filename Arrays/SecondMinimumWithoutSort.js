@@ -4,7 +4,8 @@ let secondLargestNumber = 100;
 let smallestNumber = 999;
 let secondSmallestNumber = 999;
 
-function generateRandomNumber() {
+function generateRandomNumber() 
+{
     return Math.round(Math.random() * 899 + 100);
 }
 

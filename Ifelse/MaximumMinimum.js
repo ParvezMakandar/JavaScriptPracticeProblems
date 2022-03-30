@@ -11,5 +11,6 @@ for (let index = 1; index <= 5; index++) {
 function generateRandomNumber() {
     return Math.round(Math.random() * 899 + 100);
 }
+
 console.log("Maximum Number = " + maxNumber);
 console.log("Minimum Number = " + minNumber);

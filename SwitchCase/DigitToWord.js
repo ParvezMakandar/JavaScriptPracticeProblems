@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-let number = parseInt(prompt("Enter the units digits [1,10,100,1000....]:  "));
+let number = parseInt(prompt("Enter the units digits [1,10,100,1000....]:   "));
 
 switch (number) {
     case 1:

@@ -23,6 +23,7 @@ else if (digit == 100000) {
 else if (digit == 1000000) {
     console.log("The digit is : TEN LAKHS");
 }
-else {
+else 
+{
     console.log("Invalid Digit");
 }

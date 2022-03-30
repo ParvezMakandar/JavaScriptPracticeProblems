@@ -4,7 +4,8 @@ console.log("1:Feet-Inch\n2:Feet-meter\n3:Inch-feet\n4:Meter-Feet\n")
 let choice = parseInt(prompt("Enter Your choice : "));
 let userValue = parseInt(prompt("Enter the Value: "));
 
-switch (choice) {
+switch (choice) 
+{
     case 1:
         console.log("Feet To Inch \n Feet = " + userValue + " To Inch = " + userValue * 12);
         break;

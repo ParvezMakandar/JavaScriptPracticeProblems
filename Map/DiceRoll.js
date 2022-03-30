@@ -32,7 +32,6 @@ for ([key, value] of dieCountMap.entries()) {
         numberWithMinimumCount = key;
     }
 }
-
 console.log("\nDie Map : ");
 console.log(dieCountMap);
 console.log("\nNumber with Minimum Count : " + numberWithMinimumCount

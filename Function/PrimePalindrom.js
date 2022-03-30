@@ -8,7 +8,6 @@ function checkPalindrome(number) {
     else
         return false;
 }
-
 function checkPrime(number) {
     let flag = 0;
     for (let index = 2; index < number; index++) {

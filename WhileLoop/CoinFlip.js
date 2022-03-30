@@ -6,7 +6,8 @@ while (headCount != 11 && tailCount != 11) {
     if (coin == 0) {
         headCount++;
     }
-    else {
+    else 
+    {
         tailCount++;
     }
 }

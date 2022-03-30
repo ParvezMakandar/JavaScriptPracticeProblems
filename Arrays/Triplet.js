@@ -20,6 +20,5 @@ for (let firstIndex = 0; firstIndex < integerArray.length - 2; firstIndex++) {
         }
     }
 }
-
 if (flag == 1)
     console.log("Triplet whose sum is 0 does not exist");

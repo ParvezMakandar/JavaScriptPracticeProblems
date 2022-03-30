@@ -1,5 +1,5 @@
 //Question 1: Randomn Function to get Single Digit
-console.log(Math.floor(Math.random() * 10));
+console.log(Math.floor(Math.random() * 10 ));
 
 //Question 2: Randomn to get number between 1 and 6
 console.log(Math.floor(Math.random() * 6 + 1));

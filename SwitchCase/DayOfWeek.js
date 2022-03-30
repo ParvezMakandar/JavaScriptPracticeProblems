@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-let day = parseInt(prompt("Enter the day Number: "));
+let day = parseInt(prompt("Enter the day Number:  "));
 
 switch (day) {
     case 0:

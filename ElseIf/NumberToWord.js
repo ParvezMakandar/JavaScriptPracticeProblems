@@ -3,6 +3,7 @@ let number = prompt('Enter Single Digit Number To Find Number Name: ');
 number = parseInt(number);
 console.log("Number = " + number);
 
+
 if (number == 1) {
     console.log("Number Name = ONE");
 }

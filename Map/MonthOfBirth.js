@@ -17,7 +17,6 @@ while (personCount != 51) {
     birthMonthMap.set(month, personArray);
     personCount++;
 }
-
 console.log("\nPeople with same birthday month");
 for (let [key, value] of birthMonthMap.entries()) {
     console.log("Month : " + key + "\tPeople : [" + value + "]");

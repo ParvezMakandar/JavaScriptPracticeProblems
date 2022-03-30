@@ -7,7 +7,6 @@ function CelsiusToFahrenheit(celsius) {
 function FahrenheitToCelsius(fahrenheit) {
     return Math.round((fahrenheit - 32) * 5 / 9);
 }
-
 function conversion() {
 
     console.log('1-Fahrenheit to Celsius \n2-Celsius to Fahrenheit\n');
